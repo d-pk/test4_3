@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T07:38:01.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JEfF3LkMoip1VOwjk1JP" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T14:45:34.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5B1f4Wk-xe-l4zgeUHpq" version="21.3.2" type="github">
   <diagram name="Page-1" id="GUI8cBOn3abfB36_xnmk">
     <mxGraphModel dx="1050" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1368,7 +1368,7 @@
           <mxGeometry x="572.7" y="5466.5" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="cz7XVYBOLIPW5CdgrYOq-161" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;否&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="656" y="5496" width="60" height="30" as="geometry" />
+          <mxGeometry x="652.8" y="5521" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cz7XVYBOLIPW5CdgrYOq-162" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;登录信息&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="566.25" y="5417" width="102" height="31" as="geometry" />
@@ -2729,7 +2729,7 @@
         <mxCell id="hVve_J3urrv1kE0dZMOk-168" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;修改&lt;/font&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="668.9999999999999" y="8603" width="77" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="hVve_J3urrv1kE0dZMOk-169" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;进度&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="hVve_J3urrv1kE0dZMOk-169" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;应聘进度&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="365.3" y="8276" width="89" height="45" as="geometry" />
         </mxCell>
         <mxCell id="hVve_J3urrv1kE0dZMOk-170" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;控制&lt;/font&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
@@ -3004,6 +3004,104 @@
         </mxCell>
         <mxCell id="hVve_J3urrv1kE0dZMOk-235" value="&lt;pre&gt;n&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="690.7999999999998" y="8640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-1" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;开始&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118.70000000000005" y="6507" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-2" value="&lt;pre style=&quot;font-size: 14px; line-height: 10%;&quot;&gt;&lt;pre style=&quot;border-color: var(--border-color); line-height: 10%;&quot;&gt;简历信息&lt;/pre&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="107.70000000000005" y="6553" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-3" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;是否通过筛选&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="109.20000000000005" y="6597" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-1" target="WFz2QhHp4Ke0vIhU5h29-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4.7000000000000455" y="6599" as="sourcePoint" />
+            <mxPoint x="54.700000000000045" y="6549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-5" value="&lt;pre style=&quot;line-height: 10%;&quot;&gt;&lt;pre style=&quot;border-color: var(--border-color); line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;应聘失败，&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;border-color: var(--border-color); line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;进入人才库&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="6789" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-2" target="WFz2QhHp4Ke0vIhU5h29-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4.7000000000000455" y="6680" as="sourcePoint" />
+            <mxPoint x="54.700000000000045" y="6630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-3" target="WFz2QhHp4Ke0vIhU5h29-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10.299999999999955" y="6713" as="sourcePoint" />
+            <mxPoint x="86.5" y="6684" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="158.5" y="6656" />
+              <mxPoint x="86.5" y="6656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=-0.013;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=none;fontColor=default;entryPerimeter=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-3" target="WFz2QhHp4Ke0vIhU5h29-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="28.700000000000045" y="6776" as="sourcePoint" />
+            <mxPoint x="221.5" y="6670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159" y="6656" />
+              <mxPoint x="221" y="6656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-10" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="6853" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-13" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;是&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168.41000000000017" y="6632" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-14" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;否&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84.95000000000005" y="6632" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-15" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;是否通过面试&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172.00000000000006" y="6715" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.468;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-24" target="WFz2QhHp4Ke0vIhU5h29-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221.5" y="6701" as="sourcePoint" />
+            <mxPoint x="268" y="6767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-17" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;是&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="201.00000000000017" y="6757" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-15" target="WFz2QhHp4Ke0vIhU5h29-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="6711" as="sourcePoint" />
+            <mxPoint x="223" y="6785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-19" value="&lt;pre style=&quot;line-height: 10%;&quot;&gt;&lt;pre style=&quot;border-color: var(--border-color); line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;应聘成功&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168.41" y="6789" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-20" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-15" target="WFz2QhHp4Ke0vIhU5h29-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="6778" as="sourcePoint" />
+            <mxPoint x="70" y="6728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-21" value="&lt;pre&gt;&lt;pre style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;否&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.80000000000004" y="6715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-22" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-5" target="WFz2QhHp4Ke0vIhU5h29-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="23" y="6883" as="sourcePoint" />
+            <mxPoint x="73" y="6833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-23" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.519;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WFz2QhHp4Ke0vIhU5h29-19" target="WFz2QhHp4Ke0vIhU5h29-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="33" y="6912" as="sourcePoint" />
+            <mxPoint x="83" y="6862" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFz2QhHp4Ke0vIhU5h29-24" value="&lt;pre style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;修改状态，&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;通知面试&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="179" y="6668" width="90" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
